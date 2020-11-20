@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/nguyencuong2712/app-react-textSetting/static/css/main.596c3f2e.chunk.css",
-    "main.js": "/nguyencuong2712/app-react-textSetting/static/js/main.1ce90939.chunk.js",
-    "main.js.map": "/nguyencuong2712/app-react-textSetting/static/js/main.1ce90939.chunk.js.map",
-    "runtime-main.js": "/nguyencuong2712/app-react-textSetting/static/js/runtime-main.db6223a3.js",
-    "runtime-main.js.map": "/nguyencuong2712/app-react-textSetting/static/js/runtime-main.db6223a3.js.map",
-    "static/js/2.6690211c.chunk.js": "/nguyencuong2712/app-react-textSetting/static/js/2.6690211c.chunk.js",
-    "static/js/2.6690211c.chunk.js.map": "/nguyencuong2712/app-react-textSetting/static/js/2.6690211c.chunk.js.map",
-    "static/js/3.a9e29786.chunk.js": "/nguyencuong2712/app-react-textSetting/static/js/3.a9e29786.chunk.js",
-    "static/js/3.a9e29786.chunk.js.map": "/nguyencuong2712/app-react-textSetting/static/js/3.a9e29786.chunk.js.map",
-    "index.html": "/nguyencuong2712/app-react-textSetting/index.html",
-    "static/css/main.596c3f2e.chunk.css.map": "/nguyencuong2712/app-react-textSetting/static/css/main.596c3f2e.chunk.css.map",
-    "static/js/2.6690211c.chunk.js.LICENSE.txt": "/nguyencuong2712/app-react-textSetting/static/js/2.6690211c.chunk.js.LICENSE.txt"
+    "main.css": "/app-react-textSetting/static/css/main.596c3f2e.chunk.css",
+    "main.js": "/app-react-textSetting/static/js/main.1ce90939.chunk.js",
+    "main.js.map": "/app-react-textSetting/static/js/main.1ce90939.chunk.js.map",
+    "runtime-main.js": "/app-react-textSetting/static/js/runtime-main.177b692a.js",
+    "runtime-main.js.map": "/app-react-textSetting/static/js/runtime-main.177b692a.js.map",
+    "static/js/2.6690211c.chunk.js": "/app-react-textSetting/static/js/2.6690211c.chunk.js",
+    "static/js/2.6690211c.chunk.js.map": "/app-react-textSetting/static/js/2.6690211c.chunk.js.map",
+    "static/js/3.a9e29786.chunk.js": "/app-react-textSetting/static/js/3.a9e29786.chunk.js",
+    "static/js/3.a9e29786.chunk.js.map": "/app-react-textSetting/static/js/3.a9e29786.chunk.js.map",
+    "index.html": "/app-react-textSetting/index.html",
+    "static/css/main.596c3f2e.chunk.css.map": "/app-react-textSetting/static/css/main.596c3f2e.chunk.css.map",
+    "static/js/2.6690211c.chunk.js.LICENSE.txt": "/app-react-textSetting/static/js/2.6690211c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.db6223a3.js",
+    "static/js/runtime-main.177b692a.js",
     "static/js/2.6690211c.chunk.js",
     "static/css/main.596c3f2e.chunk.css",
     "static/js/main.1ce90939.chunk.js"
